@@ -1,0 +1,8 @@
+git 
+docker-example
+gitmaven (mvn compile, mvn test, mvn clean install)
+
+
+jenkins
+docker
+Student-grade-pipeline
