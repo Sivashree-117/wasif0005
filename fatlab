@@ -1,0 +1,27 @@
+Library Book Management System
+📌 Logic
+Check if book is available
+Issue book → mark unavailable
+Return book → mark available
+💻 Code
+public class LibrarySystem {
+    public static void main(String[] args) {
+
+        boolean bookAvailable = true;
+
+        // Issue book
+        if (bookAvailable) {
+            System.out.println("Book Issued");
+            bookAvailable = false;
+        } else {
+            System.out.println("Book Not Available");
+        }
+
+        // Return book
+        bookAvailable = true;
+        System.out.println("Book Returned");
+
+        // Status
+        System.out.println("Available Now: " + bookAvailable);
+    }
+}
