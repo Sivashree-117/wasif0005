@@ -1,0 +1,88 @@
+#1
+<!DOCTYPE html>
+<html>
+<head>
+<title>CI/CD Pipeline Demo</title>
+<style>
+body{
+    text-align:center;
+    font-family:Arial;
+    background-color:#1e1e2f;
+}
+h1{
+    color:#00d4ff;
+}
+h2{
+    color:#ffffff;
+}
+p{
+    color:#cfcfcf;
+}
+</style>
+</head>
+<body>
+<h1>CI/CD Pipeline Success</h1>
+<h2>Deployment via Jenkins + Docker</h2>
+<p>This static page is auto-deployed using a continuous integration pipeline.</p>
+</body>
+</html>
+
+
+
+#2
+<!DOCTYPE html>
+<html>
+<head>
+<title>DevOps Automation</title>
+<style>
+body{
+    text-align:center;
+    font-family:Verdana;
+    background-color:#0b3d2e;
+}
+h1{
+    color:#f4f4f4;
+}
+h2{
+    color:#ffd700;
+}
+p{
+    color:#e0e0e0;
+}
+</style>
+</head>
+<body>
+<h1>Automated Deployment</h1>
+<h2>Powered by Kubernetes + Docker</h2>
+<p>This page is part of a fully automated DevOps CI/CD workflow.</p>
+</body>
+</html>
+
+#3
+<!DOCTYPE html>
+<html>
+<head>
+<title>Continuous Deployment</title>
+<style>
+body{
+    text-align:center;
+    font-family:Georgia;
+    background-color:#202124;
+}
+h1{
+    color:#34a853;
+}
+h2{
+    color:#fbbc05;
+}
+p{
+    color:#ffffff;
+}
+</style>
+</head>
+<body>
+<h1>Continuous Deployment Active</h1>
+<h2>Integrated with Jenkins Pipeline</h2>
+<p>This website updates automatically whenever new code is pushed.</p>
+</body>
+</html>
